@@ -1,8 +1,8 @@
-Synthesising Empathy: How do we create healthier digital spaces?
+# Synthesising Empathy: How do we create healthier digital spaces?
 
 <img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/99479677/159478414-8f66f28c-43ae-45cc-8a13-6727d923107d.png">
 
-Case Introduction:
+## Case Introduction:
 
 Over the past three years we’ve seen more of our social lives being experienced online. Whether it be our learning, work, hanging out with friends and family, playing, or even just escaping from the daily grind. The problem is that, generally speaking, we’re still learning how to act online. It’s easier, when online, to offer a version of yourself, or even to present yourself completely differently than you might in real life. It’s also easier to miss how your actions impact those around you. 
 
@@ -12,19 +12,19 @@ In the digital social societies that we have increasingly occupied–spaces like
 
 All this to say, we need to find ways to synthetically augment the sorts of connections humans have come to develop organically.
 
-The Pitch:
+### The Pitch:
 
 https://github.com/START-Hack/SUPERCELL_HACK22/blob/main/Supercell%20START%20Challenge%202022.pdf
 
-Further Information: 
+### Further Information: 
 
 We moved from a global pandemic to major European conflict overnight. Society is fatigued, and we see the ever-increasing tribalisation unfolding online. This challenge is not just about making digital society nicer, it’s about improving all of society by fighting against what seems to be the worst of our natural instincts to fight with strangers online. This is not technology we hope to see manifest in the future because it’s good for business, this is technology that is already needed to humanity. 
 
-The Challenge: Synthesising Empathy
+## The Challenge: Synthesising Empathy
 
 Create technology that provides digital societies with a greater sense of impact had by the way we act and by how we communicate. This may act as a form of synthesized-empathy or augmented reactions to better convey how someone is feeling. It may utilize some form of AI or ML to either provide assistance to the sender or the receiver of communications, or it may act as something omni-present within the community to help guilde it along. Really, there is so much space here to find and solve any of the hundreds of tiny problems that persist in making digital societies feel less humane than physical societies. We need everything from better education to better policy, to better technology in order to make gains here. 
 
-Judging Criteria:
+## Judging Criteria:
 
 We’re looking for something truly innovative, but it doesn’t need to be complex. We’re also looking for something that augments, not necessarily something that in completely novel. While Supercell is a gaming studio, the winning project doesn’t necessarily need to focus on gaming. Rather, it could be as focused as gaming, or as wide as online social. The main areas we’ll be looking at are:
 Does the project augment a social experience to improve how people interact with each other?
@@ -32,12 +32,14 @@ Does the project take into consideration products that are already on the market
 Does this project demonstrate an understanding of how people interact, and capture that humanity?
 Could this project scale, given the right time, talent, and resources?
 
+## Contact:
+
 Nathan, Lucas, or Ilari will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord.
 
 <img width="1096" alt="Screenshot 2022-03-22 at 14 07 39" src="https://user-images.githubusercontent.com/99479677/159478557-9abb848d-5360-470c-935f-897c67a78935.png">
 
 
-Prize - the winning team members will each receive:
+## Prize - the winning team members will each receive:
 
 DJI Mini 2 Drone
 
