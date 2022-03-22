@@ -14,7 +14,7 @@ All this to say, we need to find ways to synthetically augment the sorts of conn
 
 The Pitch
 
-insert link to deck
+https://github.com/START-Hack/SUPERCELL_HACK22/blob/main/Supercell%20START%20Challenge%202022.key
 
 Deep Dive
 
