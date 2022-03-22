@@ -1,5 +1,7 @@
 Synthesising Empathy: How do we create healthier digital spaces?
 
+<img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/99479677/159478414-8f66f28c-43ae-45cc-8a13-6727d923107d.png">
+
 Case Introduction:
 
 Over the past three years we’ve seen more of our social lives being experienced online. Whether it be our learning, work, hanging out with friends and family, playing, or even just escaping from the daily grind. The problem is that, generally speaking, we’re still learning how to act online. It’s easier, when online, to offer a version of yourself, or even to present yourself completely differently than you might in real life. It’s also easier to miss how your actions impact those around you. 
@@ -35,6 +37,9 @@ Does this project demonstrate an understanding of how people interact, and captu
 Could this project scale, given the right time, talent, and resources?
 
 Nathan, Lucas, or Ilari will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord.
+
+<img width="1096" alt="Screenshot 2022-03-22 at 14 07 39" src="https://user-images.githubusercontent.com/99479677/159478557-9abb848d-5360-470c-935f-897c67a78935.png">
+
 
 Prize - the winning team members will each receive:
 
