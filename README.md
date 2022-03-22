@@ -12,15 +12,15 @@ In the digital social societies that we have increasingly occupied–spaces like
 
 All this to say, we need to find ways to synthetically augment the sorts of connections humans have come to develop organically.
 
-The Pitch
+The Pitch:
 
 https://github.com/START-Hack/SUPERCELL_HACK22/blob/main/Supercell%20START%20Challenge%202022.key
 
-Deep Dive
+Deep Dive:
 
 insert link to deck
 
-Further Information 
+Further Information: 
 
 We moved from a global pandemic to major European conflict overnight. Society is fatigued, and we see the ever-increasing tribalisation unfolding online. This challenge is not just about making digital society nicer, it’s about improving all of society by fighting against what seems to be the worst of our natural instincts to fight with strangers online. This is not technology we hope to see manifest in the future because it’s good for business, this is technology that is already needed to humanity. 
 
@@ -28,7 +28,7 @@ The Challenge: Synthesising Empathy
 
 Create technology that provides digital societies with a greater sense of impact had by the way we act and by how we communicate. This may act as a form of synthesized-empathy or augmented reactions to better convey how someone is feeling. It may utilize some form of AI or ML to either provide assistance to the sender or the receiver of communications, or it may act as something omni-present within the community to help guilde it along. Really, there is so much space here to find and solve any of the hundreds of tiny problems that persist in making digital societies feel less humane than physical societies. We need everything from better education to better policy, to better technology in order to make gains here. 
 
-Judging Criteria
+Judging Criteria:
 
 We’re looking for something truly innovative, but it doesn’t need to be complex. We’re also looking for something that augments, not necessarily something that in completely novel. While Supercell is a gaming studio, the winning project doesn’t necessarily need to focus on gaming. Rather, it could be as focused as gaming, or as wide as online social. The main areas we’ll be looking at are:
 Does the project augment a social experience to improve how people interact with each other?
