@@ -16,10 +16,6 @@ The Pitch:
 
 https://github.com/START-Hack/SUPERCELL_HACK22/blob/main/Supercell%20START%20Challenge%202022.pdf
 
-Deep Dive:
-
-insert link to deck
-
 Further Information: 
 
 We moved from a global pandemic to major European conflict overnight. Society is fatigued, and we see the ever-increasing tribalisation unfolding online. This challenge is not just about making digital society nicer, it’s about improving all of society by fighting against what seems to be the worst of our natural instincts to fight with strangers online. This is not technology we hope to see manifest in the future because it’s good for business, this is technology that is already needed to humanity. 
