@@ -41,8 +41,14 @@ Could this project scale, given the right time, talent, and resources?
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-DJI Mini 2 Drone
+### DJI Mini 2 Drone
 
-Apple AirPod Pro
+<p align="center"> <img width="740" alt="Screenshot 2022-03-23 at 8 59 01" src="https://user-images.githubusercontent.com/99479677/159651136-64ca21e5-e967-495a-9e0c-afcb3b375515.png"> </p>
 
-Supercell Swag Bag (you’ll be given a unique code which will allow you to input your address so we can mail the swag bag directly to you)
+### Apple AirPod Pro
+
+<p align="center"> <img width="636" alt="Screenshot 2022-03-23 at 8 59 35" src="https://user-images.githubusercontent.com/99479677/159651216-a53afe44-6f75-48d3-b3d4-7bc057c69417.png"> </p>
+
+### Supercell Swag Bag 
+
+You’ll be given a unique code which will allow you to input your address so we can mail the swag bag directly to you.
